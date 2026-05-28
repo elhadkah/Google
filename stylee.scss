@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #fff;
+}
+
+/* top right links */
+.top-right {
+  text-align: right;
+  padding: 15px;
+}
+
+.top-right a {
+  margin-left: 15px;
+  text-decoration: none;
+  color: black;
+}
+
+/* center page */
+.center {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.logo {
+  font-size: 70px;
+  font-weight: normal;
+  margin-bottom: 20px;
+}
+
+/* search box */
+.search-box {
+  width: 500px;
+  padding: 12px;
+  border-radius: 25px;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+/* buttons */
+.buttons {
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  background: #f2f2f2;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #e6e6e6;
+}
+
+/* advanced page */
+.advanced {
+  margin: 50px;
+  max-width: 700px;
+}
+
+.advanced label {
+  display: block;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+.advanced input {
+  width: 100%;
+  padding: 8px;
+}
+
+/* blue button like Google */
+.blue-btn {
+  margin-top: 20px;
+  background: #1a73e8;
+  color: white;
+  padding: 10px 20px;
+}
+
+.blue-btn:hover {
+  background: #1558b0;
+}
